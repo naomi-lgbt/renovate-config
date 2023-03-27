@@ -18,7 +18,8 @@
                 "digest"
             ],
             "matchCurrentVersion": "!/^0/",
-            "automerge": true
+            "automerge": true,
+            "automergeStrategy": "squash"
         },
         {
             "groupName": "GitHub Actions",
