@@ -1,12 +1,6 @@
-# Project Name
+# Naomi's Renovate Configuration
 
-Project Description
-
-## Live Version
-
-This page is not yet deployed.
-
-<!--This page is currently deployed. [View the live website.]()-->
+This repository holds our global configuration file for the [Renovate](https://github.com/apps/renovate) dependency management tool.
 
 ## Feedback and Bugs
 
